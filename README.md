@@ -9,7 +9,7 @@ Game about happy jumping cube.
 > ```Szymon Bartoszuk```
 
 # Setup
-To use ```A-to-D``` you need to download and install [python](https://www.python.org/downloads/).
+To run the game you need to download and install [python](https://www.python.org/downloads/).
 
 After installing ```python```, run following command to install ```pygame```
 ```
